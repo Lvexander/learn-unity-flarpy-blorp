@@ -1,0 +1,8 @@
+Library/
+Library/PackageCache
+Temp/
+Obj/
+Build/
+Logs/
+UserSettings/
+Packages/com.unity.*.zip
